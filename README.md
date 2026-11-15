@@ -71,7 +71,13 @@ shiny::runApp(launch.browser = TRUE)
 This is available at [https://musicscience.shinyapps.io/experiment/](https://musicscience.shinyapps.io/experiment/)
 
 Choose two to four properties. Each graph shows preference groups within
-recruitment source. The response controls switch between counts and proportions.
+recruitment source. The "Response-pattern diagnostics" group (added by D. Hamm,
+November 2026) describes how each participant answered: Suggested or Close
+responses by mode, the share of positive terms chosen (Warriner valence above 5)
+by mode, the valence difference between major and minor, agreement with other
+participants' choices, and a data-quality screen (time, completeness,
+non-random term choice). These are computed inside the app from the prepared
+trial data. The response controls switch between counts and proportions.
 Each proportion uses the participant's scored trials as the denominator.
 
 For shinyapps.io, deploy only the app and its prepared inputs. Run this from

@@ -61,10 +61,96 @@ trial_rows <- split(seq_len(nrow(trials)), trials$code)
 summaries <- lapply(trial_rows[participants$code], function(i) summarize_trials(trials[i, ]))
 participants <- cbind(participants, as.data.frame(do.call(rbind, summaries)))
 
+# ---- Response-pattern diagnostics (added by D. Hamm, November 2026) ----------
+# These describe HOW each participant answered, without using the Suggested/Close
+# assignments to select anyone. They are computed from the prepared trial data only.
+#   * positive terms: selected word has Warriner valence above 5
+#   * valence, major minus minor: mean valence of the terms chosen in major context
+#     minus the mean for minor context (0 = no major/minor differentiation)
+#   * data-quality screen (applied identically to both sources):
+#       time        fails if a quarter or more of the trials were answered in under 5 s
+#       completeness fails if fewer than 24 trials were recorded
+#       non-random  fails if agreement with other participants' term choices is no
+#                   better than the 95th percentile of simulated random responders,
+#                   against BOTH the Organic and the Prolific distribution of choices
+fast_seconds <- 5
+fast_trial_share <- 0.25
+scored_trials <- trials[trials$category %in% response_categories, ]
+scored_trials$positive <- scored_trials$word_V > 5
+
+mode_diagnostics <- function(rows) {
+  major <- rows$Mode == "Major"
+  suggested_or_close <- rows$category %in% c("Suggested", "Close")
+  valence_test <- tryCatch(
+    t.test(rows$word_V[major], rows$word_V[!major], alternative = "greater")$p.value,
+    error = function(e) NA_real_)
+  c(major_suggested_or_close_share = mean(suggested_or_close[major]),
+    minor_suggested_or_close_share = mean(suggested_or_close[!major]),
+    positive_terms_share = mean(rows$positive, na.rm = TRUE),
+    major_positive_terms_share = mean(rows$positive[major], na.rm = TRUE),
+    minor_positive_terms_share = mean(rows$positive[!major], na.rm = TRUE),
+    valence_major_minus_minor = mean(rows$word_V[major], na.rm = TRUE) -
+      mean(rows$word_V[!major], na.rm = TRUE),
+    valence_major_minor_p = valence_test)
+}
+scored_rows <- split(seq_len(nrow(scored_trials)), scored_trials$code)
+diagnostics <- lapply(scored_rows[participants$code], function(i) mode_diagnostics(scored_trials[i, ]))
+participants <- cbind(participants, as.data.frame(do.call(rbind, diagnostics)))
+participants$under_5_seconds_share <- vapply(trial_rows[participants$code], function(i) {
+  mean(trials$Response.Time..ms.[i] < fast_seconds * 1000, na.rm = TRUE)
+}, numeric(1))
+
+# Agreement with other participants: for each trial, the share of the reference
+# group (leaving the participant out) that selected the same term; averaged over trials.
+agreement_with <- function(reference_source, simulations = 20000) {
+  agreement <- setNames(numeric(nrow(participants)), participants$code)
+  simulated <- numeric(simulations)
+  for (harmony in unique(scored_trials$Harmony)) {
+    rows <- scored_trials[scored_trials$Harmony == harmony, ]
+    reference <- rows[rows$source == reference_source, ]
+    offered <- unique(rows$Selected.Word)
+    counts <- table(factor(reference$Selected.Word, levels = offered))
+    same <- as.numeric(counts[as.character(rows$Selected.Word)])
+    in_reference <- rows$source == reference_source
+    share <- ifelse(in_reference, (same - 1) / (nrow(reference) - 1), same / nrow(reference))
+    agreement[rows$code] <- agreement[rows$code] + share
+    simulated <- simulated + as.numeric(counts / nrow(reference))[sample(length(offered), simulations, replace = TRUE)]
+  }
+  n_harmonies <- length(unique(scored_trials$Harmony))
+  list(agreement = agreement / n_harmonies,
+       random_95th = unname(quantile(simulated / n_harmonies, 0.95)))
+}
+set.seed(1)
+with_organic <- agreement_with("Organic")
+with_prolific <- agreement_with("Prolific")
+participants$agreement_with_organic <- with_organic$agreement[participants$code]
+participants$agreement_with_prolific <- with_prolific$agreement[participants$code]
+
+fails_time <- participants$under_5_seconds_share >= fast_trial_share
+# All 24 trials present. A response that could not be scored (4 trials in the data) still counts.
+fails_complete <- lengths(trial_rows[participants$code]) < 24
+fails_random <- participants$agreement_with_organic <= with_organic$random_95th &
+  participants$agreement_with_prolific <= with_prolific$random_95th
+reasons <- cbind("too fast" = fails_time, "incomplete" = fails_complete, "random-like" = fails_random)
+participants$quality_screen <- apply(reasons, 1, function(failed) {
+  if (!any(failed)) "Pass" else paste("Fail:", paste(colnames(reasons)[failed], collapse = " + "))
+})
+participants$major_minor_valence <- ifelse(
+  participants$valence_major_minus_minor > 0,
+  "More positive terms in major", "No more positive in major")
+participants$major_minor_valence_test <- ifelse(
+  !is.na(participants$valence_major_minor_p) & participants$valence_major_minor_p < 0.05,
+  "Significant difference (p < .05)", "Not significant")
+# ---- end of response-pattern diagnostics ------------------------------------
+
 genre_suffixes <- c("jazz", "class", "mainstream", "mainstream_complex")
 proportion_properties <- c("fast_response_share", "adequate_share",
                            "suggested_or_close_share", "major_suggested_share",
-                           "minor_suggested_share")
+                           "minor_suggested_share",
+                           "major_suggested_or_close_share", "minor_suggested_or_close_share",
+                           "positive_terms_share", "major_positive_terms_share",
+                           "minor_positive_terms_share", "under_5_seconds_share",
+                           "agreement_with_organic", "agreement_with_prolific")
 property_groups <- list(
   Demographics = c(Age = "age", Gender = "gender",
                    available_survey[available_survey != "Age Started Music"]),
@@ -91,6 +177,20 @@ property_groups <- list(
     "Suggested or Close responses" = "suggested_or_close_share",
     "Suggested responses in major" = "major_suggested_share",
     "Suggested responses in minor" = "minor_suggested_share"
+  ),
+  "Response-pattern diagnostics" = c(
+    "Suggested or Close responses in major" = "major_suggested_or_close_share",
+    "Suggested or Close responses in minor" = "minor_suggested_or_close_share",
+    "Positive terms chosen (valence > 5), all trials" = "positive_terms_share",
+    "Positive terms chosen in major" = "major_positive_terms_share",
+    "Positive terms chosen in minor" = "minor_positive_terms_share",
+    "Valence of chosen terms, major minus minor" = "valence_major_minus_minor",
+    "Major/minor valence direction" = "major_minor_valence",
+    "Major/minor valence test (per participant)" = "major_minor_valence_test",
+    "Responses faster than 5 seconds" = "under_5_seconds_share",
+    "Agreement with Organic participants' choices" = "agreement_with_organic",
+    "Agreement with Prolific participants' choices" = "agreement_with_prolific",
+    "Data-quality screen (time, completeness, non-random)" = "quality_screen"
   )
 )
 property_labels <- unlist(unname(property_groups))
