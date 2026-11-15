@@ -46,6 +46,20 @@ and response diagnostics. It writes `data/data_N445.rds` and
   available after a response has been made. Binary summaries use the separate
   trial-weighted medians of valence and arousal.
 
+
+### How participants were assigned to musical preference groups
+
+Each participant was assigned to one of four groups: **Jazz, Classical, Mainstream, or Mainstream-Complex**. The assignment used three survey responses: what music they listened to, what styles they played, and their self-reported level of musical involvement on the six-point OMSI scale.
+
+The script scores listening and playing separately. It compares each distinct survey choice or written entry with a list of terms for the four groups. A more specific match takes precedence over a general one. For example, *progressive rock* contributes to Mainstream-Complex without also earning a point for matching *rock*. When an entry matches more than one group equally well, its point is split between those groups. The points are then converted to shares within listening and within playing.
+
+The script combines the two sets of shares using OMSI to decide how much weight to give each. At the lowest OMSI level, playing receives one-seventh of the weight and listening receives six-sevenths. At the highest level, those weights are reversed. If only one source provides a classifiable answer, that source determines the scores.
+
+The highest combined score determines the group. If groups tie, the script checks which has the stronger score in the more heavily weighted source. If the tie persists, it uses the most common clear assignment among participants at the same OMSI level, then across the whole sample. A final exact tie is resolved alphabetically. When neither listening nor playing provides a classifiable answer, the script assigns Mainstream as a flagged fallback.
+
+The analysis dataset stores the result in a column called `cluster`. These are rule-based preference groups defined by the scoring lists and weighting rules. The original OMSI score remains available separately.
+
+
 ## Step 2. Explore the dashboard
 
 Install `shiny`, `dplyr`, and `ggplot2`, then run from the experiment folder:
