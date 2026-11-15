@@ -1,0 +1,27 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,33
+Gender,male
+Country of Residence Age 0-7,"Israel"
+Country of Residence Age 7+,"Israel"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,8
+Years of Musical Training,22
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Competent,6,""
+brass,Competent,8,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,8
+songwriter,Proficient,10
+Music Styles Played,"Jazz"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel"

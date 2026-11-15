@@ -1,0 +1,25 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,22
+Gender,female
+Country of Residence Age 0-7,"USA"
+Country of Residence Age 7+,"USA"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Amateur musician, 3
+Age Started Music,13
+Years of Musical Training,0
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+songwriter,Advanced-Beginner,3
+Music Styles Played,"Rockabilly, blues, rock"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock, Other: Rob Zombie, Kacey Musgraves, Slipknot, Lamb of God"

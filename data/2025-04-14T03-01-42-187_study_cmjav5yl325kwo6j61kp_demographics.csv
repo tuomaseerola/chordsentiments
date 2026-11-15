@@ -1,0 +1,28 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,35
+Gender,female
+Country of Residence Age 0-7,"USA, Singapore"
+Country of Residence Age 7+,"Singapore"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,7
+Years of Musical Training,12
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Advanced-Beginner,4,""
+piano,Proficient,9,""
+vocals,Competent,7,""
+woodwinds,Advanced-Beginner,3,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+songwriter,Novice,2
+Music Styles Played,"Classical, pop"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Modern & Contemporary Classical (1900s-Present), Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern)"

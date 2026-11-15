@@ -1,0 +1,27 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,35
+Gender,male
+Country of Residence Age 0-7,"USA"
+Country of Residence Age 7+,"USA"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,13
+Years of Musical Training,4
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,8,""
+drums,Competent,8,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+songwriter,Competent,7
+composer,Proficient,9
+Music Styles Played,"Classical"
+
+MUSIC PREFERENCES
+Music Genres,"Modern & Contemporary Classical (1900s-Present)"

@@ -1,0 +1,25 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,42
+Gender,male
+Country of Residence Age 0-7,"France"
+Country of Residence Age 7+,"France"
+English Proficiency (1-6),Advanced, 4
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Non-musician, 1
+Age Started Music,Not provided
+Years of Musical Training,Not provided
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+None,N/A,,
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+None,N/A,
+Music Styles Played,"Not provided"
+
+MUSIC PREFERENCES
+Music Genres,"Neo-Soul, R&B & Gospel, Alternative & Indie Rock"

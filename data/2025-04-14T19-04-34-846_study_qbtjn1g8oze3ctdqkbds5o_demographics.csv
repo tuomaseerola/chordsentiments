@@ -1,0 +1,30 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,24
+Gender,male
+Country of Residence Age 0-7,"Grenada"
+Country of Residence Age 7+,"Grenada"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,6
+Years of Musical Training,10
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,8,""
+piano,Proficient,10,""
+drums,Advanced-Beginner,3,""
+woodwinds,Advanced-Beginner,4,""
+strings,Advanced-Beginner,4,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,8
+producer,Proficient,9
+Music Styles Played,"gospel, jazz, EDM, Drum n bass, Ambient"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Alternative & Indie Rock, Other: Dnb, footwork, juke, house"

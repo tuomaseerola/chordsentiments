@@ -1,0 +1,30 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,23
+Gender,male
+Country of Residence Age 0-7,"Finland"
+Country of Residence Age 7+,"Finland"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,5
+Years of Musical Training,18
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Advanced-Beginner,4,""
+piano,Master,11,""
+drums,Competent,6,""
+vocals,Proficient,10,""
+brass,Proficient,10,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Master,11
+songwriter,Advanced-Beginner,5
+Music Styles Played,"Pop/rock, jazz"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Alternative & Indie Rock"

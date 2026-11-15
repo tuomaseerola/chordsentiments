@@ -1,0 +1,28 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,18
+Gender,male
+Country of Residence Age 0-7,"Slovenia"
+Country of Residence Age 7+,"Slovenia"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,8
+Years of Musical Training,10
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Novice,2,""
+vibraphone,Novice,2,""
+drums,Proficient,9,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,8
+songwriter,Novice,2
+Music Styles Played,"Jazz"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel"

@@ -1,0 +1,25 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,31
+Gender,male
+Country of Residence Age 0-7,"Kazakhstan "
+Country of Residence Age 7+,"Kazakhstan "
+English Proficiency (1-6),Advanced, 4
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,5
+Years of Musical Training,17
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+woodwinds,Proficient,10,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,9
+Music Styles Played,"Not provided"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Neo-Soul, R&B & Gospel"

@@ -1,0 +1,26 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,21
+Gender,male
+Country of Residence Age 0-7,"Madagascar"
+Country of Residence Age 7+,"Madagascar, France"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,17
+Years of Musical Training,0
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Proficient,9,""
+piano,Advanced-Beginner,4,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,7
+Music Styles Played,"Jazz, RNB, soul, funk, neo-soul"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Other: Jeremy passion, Gabriel, Mélissa polinar, Zayn, 5sos, Paul kim, "

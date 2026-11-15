@@ -1,0 +1,31 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,25
+Gender,male
+Country of Residence Age 0-7,"Singapore"
+Country of Residence Age 7+,"Singapore"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,12
+Years of Musical Training,1
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+piano,Master,11,""
+brass,Proficient,10,""
+woodwinds,Competent,7,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Master,11
+songwriter,Proficient,10
+composer,Proficient,9
+producer,Proficient,10
+Music Styles Played,"Jazz, Classical, Electronic"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Modern & Contemporary Classical (1900s-Present), Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel"

@@ -1,0 +1,29 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,28
+Gender,male
+Country of Residence Age 0-7,"France"
+Country of Residence Age 7+,"France"
+English Proficiency (1-6),Intermediate, 3
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,11
+Years of Musical Training,14
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,8,""
+piano,Advanced-Beginner,5,""
+vocals,Advanced-Beginner,5,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,7
+songwriter,Proficient,10
+composer,Novice,2
+Music Styles Played,"Rock, jazz"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Modern & Contemporary Classical (1900s-Present), Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock, Progressive Rock & Progressive Metal"

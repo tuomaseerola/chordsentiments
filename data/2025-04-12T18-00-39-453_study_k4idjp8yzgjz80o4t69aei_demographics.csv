@@ -1,0 +1,25 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,26
+Gender,male
+Country of Residence Age 0-7,"Denmark"
+Country of Residence Age 7+,"Denmark"
+English Proficiency (1-6),Advanced, 4
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,10
+Years of Musical Training,10
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+None,N/A,
+Music Styles Played,"Jazz"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Other"

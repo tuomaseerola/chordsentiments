@@ -1,0 +1,28 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,24
+Gender,male
+Country of Residence Age 0-7,"US"
+Country of Residence Age 7+,"US"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,11
+Years of Musical Training,14
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Proficient,9,""
+other-monophonic,Competent,7,"Mandolin"
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,8
+songwriter,Advanced-Beginner,4
+producer,Advanced-Beginner,5
+Music Styles Played,"Modern Jazz and Fusion, Electronic, Video Game OST, Pop, Singer Songwriter, Folk, Bluegrass"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock, Progressive Rock & Progressive Metal, Other: "nu-jazz", EDM, Video Game OST, Contemporary Bluegrass Fusion,Jacob Collier, Louis Cole, Chris Thile "

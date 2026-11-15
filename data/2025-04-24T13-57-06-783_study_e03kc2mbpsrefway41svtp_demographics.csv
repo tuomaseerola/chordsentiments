@@ -1,0 +1,25 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,64
+Gender,male
+Country of Residence Age 0-7,"USA"
+Country of Residence Age 7+,"USA"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,10
+Years of Musical Training,7
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+drums,Proficient,10,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,10
+Music Styles Played,"classical "
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Orchestral Film & Broadway Scores, Art Pop, Chamber Pop & Experimentalism, Progressive Rock & Progressive Metal"

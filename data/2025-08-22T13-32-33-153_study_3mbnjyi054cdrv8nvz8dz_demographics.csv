@@ -1,0 +1,31 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,55
+Gender,male
+Country of Residence Age 0-7,"BR"
+Country of Residence Age 7+,"BR"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,11
+Years of Musical Training,30+
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Proficient,10,""
+piano,Novice,2,""
+drums,Novice,2,""
+vocals,Novice,2,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,10
+songwriter,Competent,7
+composer,Competent,7
+producer,Competent,7
+Music Styles Played,"Jazz (subgenres included), rock, Brazilian music"
+
+MUSIC PREFERENCES
+Music Genres,"Modern & Contemporary Classical (1900s-Present), Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock, Progressive Rock & Progressive Metal, Other: Carnatic music, afro Cuban music, “pop-oriented” African Music (Papa Wemba, Fela Kuti, Salif Keita)"

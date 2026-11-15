@@ -1,0 +1,29 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,32
+Gender,male
+Country of Residence Age 0-7,"USA"
+Country of Residence Age 7+,"USA"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,5
+Years of Musical Training,20
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Advanced-Beginner,4,""
+piano,Advanced-Beginner,4,""
+drums,Proficient,10,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,10
+songwriter,Advanced-Beginner,4
+producer,Competent,7
+Music Styles Played,"Jazz, Brazilian, Pop, Soul"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Alternative & Indie Rock, Progressive Rock & Progressive Metal, Other: Música Uruguayo"

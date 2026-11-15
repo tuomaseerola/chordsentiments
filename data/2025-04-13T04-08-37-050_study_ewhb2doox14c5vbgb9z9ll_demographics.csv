@@ -1,0 +1,30 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,30
+Gender,male
+Country of Residence Age 0-7,"Canada"
+Country of Residence Age 7+,"Canada"
+English Proficiency (1-6),Advanced, 4
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,10
+Years of Musical Training,20
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+piano,Novice,1,""
+drums,Novice,1,""
+vocals,Novice,1,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,5
+songwriter,Competent,6
+producer,Novice,1
+Music Styles Played,"R&B, Soul, Funk"
+
+MUSIC PREFERENCES
+Music Genres,"Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock, Progressive Rock & Progressive Metal"

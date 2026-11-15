@@ -1,0 +1,27 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,29
+Gender,male
+Country of Residence Age 0-7,"Brazil"
+Country of Residence Age 7+,"Brazil"
+English Proficiency (1-6),Advanced, 4
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,17
+Years of Musical Training,10
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Advanced-Beginner,4,""
+piano,Novice,2,""
+drums,Competent,8,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,4
+Music Styles Played,"Jazz, Funk, Samba and Bossa nova"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B"

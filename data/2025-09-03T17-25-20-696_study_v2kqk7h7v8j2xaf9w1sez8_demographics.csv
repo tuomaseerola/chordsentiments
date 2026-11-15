@@ -1,0 +1,28 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,32
+Gender,male
+Country of Residence Age 0-7,"Argentina"
+Country of Residence Age 7+,"Argentina"
+English Proficiency (1-6),Novice, 2
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,12
+Years of Musical Training,15
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Proficient,9,""
+drums,Competent,6,""
+other-polyphonic,Competent,7,"Bass"
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,7
+producer,Competent,7
+Music Styles Played,"rock, soul, jazz, funk, r&b"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Alternative & Indie Rock"

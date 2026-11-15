@@ -1,0 +1,28 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,30
+Gender,female
+Country of Residence Age 0-7,"The Netherlands"
+Country of Residence Age 7+,"The Netherlands"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,7
+Years of Musical Training,8
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+piano,Advanced-Beginner,5,""
+vocals,Advanced-Beginner,5,""
+strings,Novice,1,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Novice,1
+Music Styles Played,"Classical, contemporary, religious, pop, rock, indie"
+
+MUSIC PREFERENCES
+Music Genres,"Orchestral Film & Broadway Scores, Alternative & Indie Rock, Progressive Rock & Progressive Metal, Other: Musical theatre, pop-punk"

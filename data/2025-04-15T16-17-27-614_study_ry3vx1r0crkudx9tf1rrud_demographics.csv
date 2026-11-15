@@ -1,0 +1,27 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,20
+Gender,female
+Country of Residence Age 0-7,"Ireland "
+Country of Residence Age 7+,"Ireland "
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Amateur musician, 3
+Age Started Music,11
+Years of Musical Training,7
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,8,""
+piano,Advanced-Beginner,4,""
+vocals,Proficient,10,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+None,N/A,
+Music Styles Played,"Classical, pop"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock"

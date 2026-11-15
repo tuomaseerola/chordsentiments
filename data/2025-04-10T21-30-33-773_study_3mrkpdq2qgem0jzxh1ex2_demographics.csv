@@ -1,0 +1,32 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,32
+Gender,male
+Country of Residence Age 0-7,"Finland"
+Country of Residence Age 7+,"Finland, Germany"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,10
+Years of Musical Training,6
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Proficient,9,""
+piano,Advanced-Beginner,5,""
+drums,Competent,7,""
+woodwinds,Novice,2,""
+other-polyphonic,Competent,7,"Pedal steel"
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,6
+songwriter,Competent,7
+film,Advanced-Beginner,4
+producer,Proficient,9
+Music Styles Played,"Indie rock, americana, rock, metal"
+
+MUSIC PREFERENCES
+Music Genres,"Modern & Contemporary Classical (1900s-Present), Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock, Progressive Rock & Progressive Metal"

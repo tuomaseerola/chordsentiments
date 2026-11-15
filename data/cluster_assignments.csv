@@ -1,0 +1,446 @@
+"id","code","cluster","preference_assignment","Country of Residence Age 0-7","Country of Residence Age 7+","English Proficiency (1-6)","Age Started Music"
+1,"e7eivf27v8uc7q9ev8gnr","Classical","tie: stronger preference in primary source","US","US","Distinguished",9
+2,"l1fakhozfbriplct4cssge","Mainstream-Complex","weighted preferences","Croatia","Croatia","Advanced",10
+3,"w2hkkhsvopbals4zs562iq","Mainstream-Complex","weighted preferences","philippines","philippines, thailand","Superior",13
+4,"cuisguef0yp52kb0d1mwr","Mainstream-Complex","weighted preferences","USA","USA","Intermediate",10
+5,"iz05h7scp6vebqdy6w22","Mainstream-Complex","weighted preferences","Aotearoa New Zealand","Aotearoa New Zealand","Distinguished",11
+6,"iyq891om1dasosotajmm5","Jazz","weighted preferences","Guatemala","Guatemala","Intermediate",16
+7,"gfd0lwqmxphr9t5um5hj48","Jazz","weighted preferences","Brazil","Brazil","Superior",14
+8,"tapllv7hjkma0hzo3jrtz9","Mainstream","weighted preferences","USA","USA","Advanced",6
+9,"l5lclazvngb731ohjd1l55","Mainstream-Complex","weighted preferences","Ireland","Ireland","Distinguished",12
+10,"8sq791swp8pjm44id7lu0c","Mainstream-Complex","weighted preferences","India","India, Germany, UK","Distinguished",12
+11,"593blwn9383ufd6clhxa0o","Jazz","weighted preferences","USA","N/A","Distinguished",7
+12,"oqrsbwws771d63w6pu2gn","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",6
+13,"ykwuehpfe6fxeh19gsvh8","Jazz","weighted preferences","USA","USA","Distinguished",14
+14,"2le7uvjw90ukbksesefrvd","Mainstream-Complex","tie: prevalence within OMSI and overall","Colombia","Colombia","Distinguished",11
+15,"geydveelul9c35anbzcdhv","Mainstream-Complex","weighted preferences","Uk","Uk","Superior",10
+16,"2utp1eodxk7tes7xdh2mu","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+17,"ssfgmjma31jo6hdbgc27cn","Jazz","tie: prevalence within OMSI and overall","France","France","Distinguished",5
+18,"hnijwced49km3vtfzwaenn","Classical","weighted preferences","Usa","Usa","Distinguished",7
+19,"zg4uk1jkroowko8zadhzzi","Mainstream-Complex","weighted preferences","France","France","Superior",NA
+20,"8useici7bldmxup9q5h3z","Jazz","weighted preferences","Finland","Finland","Superior",5
+21,"b09h9ol6a68j609223y28","Jazz","weighted preferences","India","India","Distinguished",24
+22,"80xqg5l6a6a7zrw21rl6vj","Jazz","weighted preferences","Scotland","Scotland","Advanced",12
+23,"s9364mqp4dp9qqnyv676lc","Jazz","weighted preferences","France","France","Advanced",6
+24,"lz8l63ho0mbrpsrwb0c3rl","Mainstream","weighted preferences","El Salvador","El Salvador","Advanced",12
+25,"yvhzka0pgrdml3itgmuoxe","Mainstream","weighted preferences","Hungary","Hungary, China","Distinguished",14
+26,"edn9atq5ljnuit96ggb04","Jazz","weighted preferences","USA","USA","Distinguished",5
+27,"8kkltu0wmkdxho08td23el","Mainstream-Complex","weighted preferences","Madagascar","Madagascar, France","Superior",17
+28,"ybcta8yznemjn5dpxpxa4","Mainstream-Complex","weighted preferences","USA","USA, The Philippines","Distinguished",NA
+29,"hid4eor4iwsyprxqawibw","Jazz","weighted preferences","Chile, Spain","France, Denmark","Superior",8
+30,"yfv798u1y9zbexaaqszz","Mainstream","fallback: no classified preference","Finland","Finland","Advanced",NA
+31,"cuih3jpa97abmj5bznqfvk","Mainstream-Complex","weighted preferences","England, UK","England, UK","Distinguished",7
+32,"56tr36afkt1xw9430lpba","Jazz","weighted preferences","United States","United States","Distinguished",10
+33,"mzcm4nu2l6ke4uexo6y7","Mainstream-Complex","weighted preferences","USA","USA","Superior",NA
+34,"zjymtxd2n5ax59ogxvjjma","Mainstream","weighted preferences","USA","USA","Distinguished",7
+35,"y9xsl08n5gm9dk2gyfsj","Jazz","weighted preferences","USA","USA","Distinguished",4
+36,"07tk8xu587ige43ilvs4mdn","Mainstream","weighted preferences","Canada","Canada","Distinguished",5
+37,"uqxy1ef8cz02cfc9olm5s1","Mainstream-Complex","weighted preferences","USA","UAE","Distinguished",11
+38,"5lxbffwm4s85okr60hpmzy","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",7
+39,"0dh0d9j9irj50xxs42h7pp1","Jazz","weighted preferences","USA","USA","Superior",8
+40,"393eroeqh2drl5xeeon8cc","Mainstream-Complex","weighted preferences","South Africa","South Africa","Superior",8
+41,"3mrkpdq2qgem0jzxh1ex2","Mainstream-Complex","weighted preferences","Finland","Finland, Germany","Distinguished",10
+42,"uiqh6a5tfw9vl4x5n04vp9","Mainstream","weighted preferences","USA","USA","Superior",7
+43,"0r0d734fpjwwenoj5wv41o","Mainstream-Complex","weighted preferences","Uruguay","Uruguy","Distinguished",7
+44,"jehb369nuso5co5enje9b6","Jazz","weighted preferences","Kuwait","Kuwait","Distinguished",12
+45,"ifyvxu60mct26r2hdnm5ak","Mainstream","weighted preferences","US","US","Distinguished",11
+46,"0l80ijguajgmyopzuxhjn9","Classical","weighted preferences","United Kingdom","United Kingdom","Distinguished",9
+47,"w04sj0nxevov67bnjm9v","Classical","weighted preferences","Venezuela","Venezuela, moved to USA at age 45","Distinguished",6
+48,"2pwu3fotxwlig1f143vyr","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",12
+49,"ohric1l1fc2q6kcpi752x","Mainstream-Complex","weighted preferences","Singapore","Singapore","Distinguished",5
+50,"bjkbfv4kse7bkkmd46rwv","Jazz","weighted preferences","France","France","Intermediate",11
+51,"sdbhu7v3sarsf9f4yw1u4c","Jazz","weighted preferences","Portugal","Portugal","Superior",5
+52,"17kpn7dfgq4u1ykqkwsgno","Mainstream-Complex","weighted preferences","US","US","Distinguished",13
+53,"a9gdp1qy9zdw6etpq1pj7j","Jazz","weighted preferences","UK","UK","Distinguished",15
+54,"njiaxvq8f2gbj0zm275ci5","Jazz","weighted preferences","USA","USA","Distinguished",14
+55,"6qfpplut7jmtmyfcj0yl2q","Jazz","weighted preferences","USA","US","Distinguished",15
+56,"35gv3c54rkv2z0kin1vixy","Jazz","weighted preferences","USA","USA","Distinguished",6
+57,"0zvqvao2ky5bvt8c57ln3dc","Mainstream-Complex","weighted preferences","Usa","Usa","Distinguished",4
+58,"4uvx2n0amjrbltliyugs88","Mainstream-Complex","weighted preferences","Scotland and England","England and Scotland","Distinguished",NA
+59,"zcfy48z1xr3ozbmj5suqt","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",5
+60,"t2luxoa8sb5yrtwn3pwl","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",14
+61,"dri8qhiz3qpo1qi2t5pdm","Mainstream-Complex","weighted preferences","Puerto Rico","Puerto Rico","Distinguished",8
+62,"5ydppc70ne4ww4mk4irlpr","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+63,"gwamdtd61aa7hngyvpi8w","Classical","weighted preferences","USA, Italy","Italy","Distinguished",5
+64,"2u8iwgw7h06w3g1g22wtx","Mainstream-Complex","weighted preferences","USA, Mexico","USA","Distinguished",10
+65,"pahmfo55gyedmo2raqhuh8","Mainstream","weighted preferences","USA","USA","Superior",NA
+66,"h83zg1hfyeh439vln0io2m","Classical","weighted preferences","United States","United States","Distinguished",4
+67,"g6fo3qianyt814xd8b1wbu","Jazz","weighted preferences","Brazil","Brazil","Distinguished",8
+68,"zp4j84355wmzmh91il84h","Classical","weighted preferences","Israel","israel","Intermediate",6
+69,"q0wfjp7rs1j0y2nczz4qptm","Mainstream-Complex","weighted preferences","Germany","Germany","Advanced",NA
+70,"qiz7uavkhqh9fsany009ed","Mainstream","weighted preferences","Brazil","Brazil","Distinguished",7
+71,"j5gqldqp2j9nptayq138v","Jazz","weighted preferences","France","France","Superior",6
+72,"ezc8et0w9hies9l4ocfg","Mainstream","weighted preferences","The Netherlands","The Netherlands","Superior",7
+73,"7ktn4k1cl3i611tb2j1ay","Mainstream","weighted preferences","France","France","Superior",5
+74,"b4xlpauo0pnm1drb10itlq","Jazz","weighted preferences","2000's Kazakhstan with internet exposure","Post-COVID Kazakhstan with significant internet exposure","Distinguished",6
+75,"hp37r94nb1txs0bymrp7l8","Classical","weighted preferences","USA","USA","Distinguished",8
+76,"k4idjp8yzgjz80o4t69aei","Jazz","weighted preferences","Denmark","Denmark","Advanced",10
+77,"jvahntbryyj1ml9cuc8lgl","Mainstream-Complex","weighted preferences","Usa","Usa","Distinguished",5
+78,"7zysjh243cr546hzg6etsq","Mainstream-Complex","weighted preferences","UK","UK","Distinguished",17
+79,"ep0h8nvggze8bq7absrc7","Mainstream-Complex","weighted preferences","US","US","Distinguished",17
+80,"7sdgresxn2ardzeogkl5","Jazz","weighted preferences","Slovenia","Slovenia","Superior",8
+81,"l9ukrtpgkp9nyzdwp56k","Mainstream-Complex","weighted preferences","France","France","Superior",15
+82,"ssyan2dhcucp0ipk4orbf","Mainstream","weighted preferences","canada, serbia","canada, serbia","Distinguished",16
+83,"6paroug675frhonlb0no9","Mainstream-Complex","weighted preferences","Sardinia","Sardinia","Distinguished",8
+84,"fxmq4lyzmcl2s1yrmeorvf","Jazz","weighted preferences","USA","USA","Superior",6
+85,"9uhl63bqcqm3ybwlhfju","Mainstream","weighted preferences","USA","USA","Superior",7
+86,"qunmxvy8f1jeb7ehp0ugjv","Mainstream-Complex","weighted preferences","Poland, United Kingdom","United Kingdom","Superior",8
+87,"0fhp4233s9dbkgp5m7eej7","Mainstream","weighted preferences","USA","USA","Distinguished",10
+88,"srsc1coqo9bx1rkpopa2b","Mainstream-Complex","weighted preferences","China","China, United States","Distinguished",6
+89,"uluhtkijhxesatt17wdb88","Mainstream-Complex","weighted preferences","USA","USA","Superior",3
+90,"0fs0oec17hjd6lxr2l6gv8","Mainstream-Complex","weighted preferences","Israel","Israel, UK, USA","Distinguished",13
+91,"zjl847noj8tjromxdq9ko","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",7
+92,"zon1k1xx6krckvp51qf9j","Jazz","weighted preferences","USA","USA","Distinguished",11
+93,"qtiorg14ikj0bngube4xad","Jazz","weighted preferences","USA","USA","Advanced",4
+94,"nyg75r3d47mlucjkv5wb7","Classical","weighted preferences","USA","USA","Distinguished",4
+95,"dzwrj4g8rlsnt61ueau2y","Mainstream-Complex","weighted preferences","USA, Canada","Canada","Distinguished",NA
+96,"ocxm0hrqj7fdhvj0lgmfar","Mainstream-Complex","weighted preferences","Usa","Usa","Distinguished",NA
+97,"vo9wnvkax7kywe2l7v6mn","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",3
+98,"x9tzbfmg3k5u8opxs82qe","Mainstream-Complex","weighted preferences","Spain","Equatorial Guinea, Spain","Superior",NA
+99,"kw5rqf9k3psi2nlvmhveer","Mainstream-Complex","weighted preferences","usa","usa","Distinguished",4
+100,"zeljg452craokvekx2vm8k","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",7
+101,"ewhb2doox14c5vbgb9z9ll","Mainstream-Complex","weighted preferences","Canada","Canada","Advanced",10
+102,"v7pvqz648acpha0jser2on","Jazz","weighted preferences","Italy","Italy","Distinguished",12
+103,"j6ryievv5qj4ucwvyqbdqm","Classical","weighted preferences","Hong Kong","Hong Kong, UK","Distinguished",6
+104,"pselap4lgur28qzgi0aj9a","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",5
+105,"odmf2csovokdfid4zj2g","Jazz","weighted preferences","USA","USA","Distinguished",10
+106,"s3spr3w7kseuqttuj5cqtr","Jazz","weighted preferences","Israel","Israel","Distinguished",8
+107,"otb9c3d93xnc5dti0h9mrq","Mainstream","weighted preferences","USA","USA","Distinguished",40
+108,"8txyau4tibah04kfqt7yt5","Jazz","weighted preferences","US","US","Distinguished",8
+109,"yv3vub2dggpr0cdrcerncl","Mainstream-Complex","weighted preferences","USA","USA","Superior",7
+110,"xbmjyn00o4mw01qzghnoa","Jazz","weighted preferences","US","US","Distinguished",8
+111,"9z9ps9iyb6iugv33uu6oxj","Mainstream","weighted preferences","United Kingdom","United Kingdom","Distinguished",9
+112,"obhzxresyqmgtz26che6o","Mainstream-Complex","weighted preferences","Germany","Germany","Superior",6
+113,"40gfkckc1vkazbc4dec0ae","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",10
+114,"y9mk5g5w3nz164j7iq5um","Mainstream","weighted preferences","Germany","Germany","Distinguished",12
+115,"gu19uvprxu1gqk8r56kyh","Mainstream","weighted preferences","Germany","Germany","Distinguished",12
+116,"bgwhcosckzurcl9q7xqzah","Classical","weighted preferences","Canada","Canada","Distinguished",3
+117,"m0snmk95uzfpnnucenizg","Classical","weighted preferences","USA","Canada","Distinguished",4
+118,"mrcbwx4ay3bhq4v51m4tp","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",8
+119,"zugwivdbfto3tlvhgpz23d","Jazz","weighted preferences","Slovenia","Slovenia","Superior",8
+120,"7fipp7yju2jex1b86khwmn","Mainstream-Complex","weighted preferences","Venezuela","Venezuela","Advanced",12
+121,"p6gp6o10gizuxr9xcy67","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",5
+122,"oqek14k3eidshp4f87tqy9","Mainstream-Complex","weighted preferences","Argentina","Spain","Superior",7
+123,"dotsypux47f6ozf1m3958","Mainstream-Complex","weighted preferences","usa","usa","Distinguished",NA
+124,"2zzdrda3qa4kpu7rodw90k","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+125,"57n48kungkd4j0t692mpd","Mainstream-Complex","tie: stronger preference in primary source","Canada","Canada","Superior",5
+126,"cealcbltyqirmrepneug2","Mainstream","weighted preferences","USA","Usa","Distinguished",9
+127,"zi6ni020geshzghoetdfo","Mainstream-Complex","weighted preferences","United States","United States","Superior",8
+128,"ahkwm0ma5dcsld2gcory6c","Mainstream","weighted preferences","USA","USA","Distinguished",8
+129,"cmjav5yl325kwo6j61kp","Classical","weighted preferences","USA, Singapore","Singapore","Distinguished",7
+130,"7q8bmzb92ardch244fqsv","Classical","weighted preferences","Canada","Canada","Distinguished",8
+131,"lhlzjxdnqntssxjapvpj","Mainstream-Complex","weighted preferences","germany","germany","Intermediate",NA
+132,"spsy48pxkwqlrfn28g4h8a","Classical","weighted preferences","USA","USS","Distinguished",9
+133,"8lsa8cs0pd22fpho0c5sk","Mainstream","weighted preferences","USA","USA","Distinguished",6
+134,"db7oyac62pe7j8hmq6ia3l","Mainstream-Complex","weighted preferences","USA","USA","Superior",NA
+135,"1hjg2nrsoknaqsap7uov8b","Jazz","weighted preferences","China","China","Distinguished",NA
+136,"e61qgxc1t9q5t9p8btnkjm","Mainstream-Complex","weighted preferences","France","France","Advanced",NA
+137,"lzn51457jtee56rcyclie","Mainstream-Complex","weighted preferences","Hungary","Hungary","Advanced",18
+138,"zalmxy0f0baypxq6ozc3a","Classical","weighted preferences","Lithuania","Lithuania","Distinguished",7
+139,"xdxo43tf48oy5bt38rlq3j","Classical","weighted preferences","Canada","Canada","Distinguished",NA
+140,"qqztjfe44u43rapzkw5de","Classical","weighted preferences","USA","USA","Distinguished",12
+141,"cn8e8lndqkjd5z2vqrt5e","Mainstream-Complex","weighted preferences","Guyana","USA","Distinguished",12
+142,"ku504j18q6cubczebbmwz","Mainstream","weighted preferences","United States","United States","Distinguished",11
+143,"is70ismo2grsn83ydvra9i","Classical","weighted preferences","United States","United States","Distinguished",4
+144,"t6b2ct5zvgfaq6ij6evdp","Mainstream-Complex","weighted preferences","France","France","Superior",NA
+145,"trdtrjkpv9a8rzrqtiu17i","Mainstream","weighted preferences","USA","USA","Distinguished",40
+146,"ruiyp38akgq93zq5d3guk","Mainstream","weighted preferences","USA","USA","Superior",12
+147,"9axzlmvrrx9ifvh5c52x","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",10
+148,"2hj5k4v0hirj7ufh7lgasg","Mainstream","weighted preferences","United States","United States","Advanced",7
+149,"qbtjn1g8oze3ctdqkbds5o","Mainstream","weighted preferences","Grenada","Grenada","Distinguished",6
+150,"8jc6mnybkkbsiyt8f5993","Mainstream","weighted preferences","USA","USA","Superior",14
+151,"z8z7rfz5wpg2okc9imth26","Mainstream-Complex","weighted preferences","United States","United States","Superior",12
+152,"b928khlyecuptc903r2ybl","Mainstream","weighted preferences","USA","USA","Distinguished",40
+153,"vim8n5jh1ruvhx2b2xojq","Jazz","weighted preferences","Malaysia","Malaysia","Advanced",7
+154,"v8yxuwmkro8lj8y1ss6nep","Mainstream-Complex","weighted preferences","Germany","Germany","Distinguished",8
+155,"zjso6phgmbhgqmnlruna34","Mainstream-Complex","weighted preferences","Germany","Germany","Intermediate",23
+156,"ry3vx1r0crkudx9tf1rrud","Mainstream-Complex","weighted preferences","Ireland","Ireland","Distinguished",11
+157,"x42vmhjb9lzjh9a0ncgh","Classical","weighted preferences","Canada","Canada","Superior",4
+158,"6f7ci8x9zbqtm1tfdqiiad","Mainstream","weighted preferences","Canada","Canada","Intermediate",9
+159,"xsuhp05cb4o9dq2qrqvu","Mainstream","weighted preferences","USA","USA","Distinguished",10
+160,"f3vbx9c3i38rgs5muu73ue","Mainstream-Complex","weighted preferences","UK","UK","Distinguished",13
+161,"5k0zsy04517lf1lv0q73qh","Mainstream-Complex","weighted preferences","France","France","Superior",7
+162,"4y5i99aunv23bbzmsd3zg9","Mainstream-Complex","weighted preferences","USA","N/A","Distinguished",6
+163,"0pv3tc5yz6kwgfv3a8f20o","Mainstream","weighted preferences","USA","USA","Distinguished",8
+164,"y2nga6g7d6archeit49zo","Jazz","weighted preferences","United States","United States","Superior",6
+165,"ougxyuemtdbszaalg08w0b","Jazz","weighted preferences","USA","USA","Advanced",4
+166,"a0d1xfw86hw56919s1bp1e","Jazz","weighted preferences","USA","USA","Distinguished",8
+167,"vsfd5n857fi1ktamftqpgt","Classical","weighted preferences","USA","USA","Distinguished",5
+168,"yvaob8v01ap7j4pdzib20r","Classical","weighted preferences","USA","USA","Superior",14
+169,"jy66ccmofww6pn7y6m8q","Mainstream","weighted preferences","USA","USA","Superior",7
+170,"1g4y4sr9oqpg2o14xvc4o","Mainstream-Complex","weighted preferences","japan","japan","Novice",NA
+171,"m38ieafjnok98kn9eot56w","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",12
+172,"xz5vypmxwm9bub1v7h2gl","Classical","weighted preferences","United Kingdom","United Kingdom","Distinguished",6
+173,"nyssmo750w86rkyzrp2g0g","Classical","weighted preferences","Usa","Usa","Superior",8
+174,"oqvy4ofljs8aq0s6vu0txn","Jazz","weighted preferences","Brazil","Brazil","Distinguished",7
+175,"kdjn5n937rv8oig41pjy","Jazz","weighted preferences","Brazil","Brazil","Advanced",17
+176,"iwej4ieufcmmi6bfg5ry","Jazz","weighted preferences","USA","USA","Superior",6
+177,"u2kpzvzrferub4bu4cdy3","Jazz","weighted preferences","US","US","Distinguished",7
+178,"c3pduox066glnsn8mfcfvn","Mainstream-Complex","weighted preferences","USA, Germany","USA, Canada","Distinguished",5
+179,"l53em4cbc3sed7sizfm8","Mainstream-Complex","weighted preferences","USA","Usa","Superior",NA
+180,"iz6efifjb0gft1d6700v5","Classical","weighted preferences","England","England","Distinguished",4
+181,"ikmnl33tgpfhm3ar7fz34","Jazz","tie: prevalence within OMSI and overall","United States","United States","Distinguished",6
+182,"8a5ebttkx5fpos1qf47s9q","Mainstream-Complex","weighted preferences","germany","germany","Distinguished",4
+183,"k5j65z8z76dmu9has39q","Mainstream-Complex","weighted preferences","United States","United States","Superior",NA
+184,"a7831ruzgt7yiw0jcg4ixd","Mainstream-Complex","weighted preferences","Canada","Canada","Distinguished",NA
+185,"zzsb1ohglwb34cvq3myezi","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",4
+186,"blvd8ug9vhbnu8rt254tn","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",7
+187,"lktnvvgmid1fqxepozf04","Mainstream-Complex","weighted preferences","Norway","Norway","Distinguished",8
+188,"7nrtf4e50fbe09ppsqc53q","Classical","weighted preferences","China","Australia","Distinguished",6
+189,"s1dshcn82nwwyrirnqour","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",NA
+190,"z2d2huq7a6c4vofv5cmcn7","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+191,"grkts4ahmil6jhj7giq05u","Mainstream-Complex","weighted preferences","Canada","Canada","Superior",NA
+192,"qhcbngixu4g07taxwuz7g","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",NA
+193,"objjusbnmoho0f925chxtk","Jazz","tie: prevalence within OMSI and overall","USA","USA","Distinguished",3
+194,"5217tbtf8d5r89i1qg0pl","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+195,"8pik35u1xvqlqmb9ekrx6c","Jazz","weighted preferences","USA","USA","Distinguished",NA
+196,"q02hqkz0sdh9ibq0znpj","Classical","weighted preferences","USA","USA","Superior",17
+197,"zphfkawa8detiockuuhie","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+198,"cyp34bswm1qcz49oljub8q","Mainstream","weighted preferences","USA","USA","Distinguished",6
+199,"zrrcmscf62a9ufas9zbsxh","Mainstream","weighted preferences","United States","United States","Distinguished",NA
+200,"g9181inqhzsxotracsc05q","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",NA
+201,"sbvwo060bugbm3y2jy74lw","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",NA
+202,"k7d1s9gzazql77jz2xqps","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+203,"2ur70h9bxc39an3o207gdu","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+204,"1lo09ix1fqs3faw0yca9nj","Jazz","weighted preferences","usa","usa","Distinguished",9
+205,"ahgqpnp63hq1tas0a1lq02","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+206,"qosfzejq1q63uhv3zdk86","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",NA
+207,"syw6cu2dt2r8nsnue4h1j","Classical","weighted preferences","United States","United States","Distinguished",NA
+208,"b0genc768bgqqv7hm6ldmp","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",NA
+209,"lhr48375dkguzmktqbtgc","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+210,"zncbr6vy74qlecrxy2bsp","Classical","weighted preferences","USA","USA","Distinguished",NA
+211,"3467gxl0w1kn3tljwlq4j9","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+212,"7rhbvynyczv52or34ucs3r","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",11
+213,"cr73xw280jod1v4kgutr3","Jazz","weighted preferences","USA","USA","Distinguished",10
+214,"rmpcrgf169bzn1irfno6a","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Superior",NA
+215,"n75d3aci2j6xmtli1p0q","Classical","weighted preferences","USA","USA","Superior",13
+216,"519tkynw12bf2asd6gdctk","Mainstream-Complex","weighted preferences","usa","None","Distinguished",NA
+217,"x21emjmutjc9pqfwyf7s8","Classical","weighted preferences","United States","United States","Distinguished",10
+218,"y476dwccz59z7zu929g9o","Mainstream-Complex","weighted preferences","Israel","Israel","Distinguished",NA
+219,"bulkb0atdzn101ftf2f3bpo","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+220,"xarxr45ngf5zploy63scm","Mainstream-Complex","weighted preferences","United States","United States","Intermediate",NA
+221,"39dv5fau8nxsqhjvz3k8ec","Mainstream-Complex","weighted preferences","USA","USA","Superior",NA
+222,"b7j0suzvqz46ub9hsqy5g6","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",NA
+223,"bi66np0gr2gomfcdb8lpo","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+224,"l9kifapkemic81756dl4j","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+225,"9kakjbhthaz2glz4979os","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+226,"lbrvz3yk2s4pyhmo96opa","Jazz","weighted preferences","USA","USA","Superior",12
+227,"o6wsvsr1xeouqf6ea2oqui","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+228,"3qdtgslf8vxjwjslshmf5","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",NA
+229,"vgat1ii3m9ff7hjh6pq5j","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",13
+230,"d4wpt0e5s6jena5sukdlx","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+231,"lmoskhk35f70tcq0ctiwb","Classical","weighted preferences","USA","USA","Superior",8
+232,"szojp19ogu6kvkhovwec5","Classical","weighted preferences","USA","USA","Distinguished",8
+233,"ord8bk88ijigocm8zapjqf","Mainstream-Complex","weighted preferences","USA","USA","Superior",NA
+234,"eqzpakfpa6x5awoivd1r","Jazz","weighted preferences","USA","USA","Distinguished",20
+235,"e03kc2mbpsrefway41svtp","Classical","weighted preferences","USA","USA","Distinguished",10
+236,"mupnd5do3xsw7r2z6gzus","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+237,"i1a6ecgg72kn9u2ava8x","Mainstream","weighted preferences","United States","United States","Distinguished",17
+238,"w2veguyb4fm7d5oo65kgg","Mainstream-Complex","weighted preferences","USA","USA","Superior",NA
+239,"cyckf6a66bhzq104yj43n","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+240,"jhznxmat2mq7lup5sc8w","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+241,"uxx00xaeqkkaogta2cdic","Jazz","weighted preferences","USA","USA","Advanced",NA
+242,"yz0svas9dwhdxme8g9qes","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+243,"56vq1vr5v7pk5su9bp6nll","Classical","weighted preferences","USA","USA","Distinguished",NA
+244,"iv8z51ziinh6kkgz3p2z49","Mainstream-Complex","weighted preferences","US","US","Distinguished",NA
+245,"nlfzahu42m513uuzc765n","Mainstream-Complex","tie: prevalence within OMSI and overall","Taiwan","Taiwan and USA","Distinguished",NA
+246,"k1itrepzvkzfct49ic9we","Mainstream","weighted preferences","USA","USA","Distinguished",8
+247,"ms5hvpn1x6hdre4tu0ceur","Mainstream","weighted preferences","United States","United States","Distinguished",12
+248,"dqehyq7gqx5rtvpoo4tcn","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+249,"u9331iimgwjp3i0sss7luo","Mainstream","weighted preferences","USA","USA","Distinguished",4
+250,"0kdlgdxjixci99arlzrwl","Mainstream-Complex","weighted preferences","USA","USA","Superior",NA
+251,"yp3920vziyay7fxyjglr1","Classical","weighted preferences","USA","USA","Distinguished",4
+252,"ohgajjemyvq3k05aicd5cu","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+253,"4o2wkpzurldjluhjkrq429","Jazz","tie: prevalence within OMSI and overall","USA","USA","Distinguished",NA
+254,"fynmsv4a2k6m11jawha2j","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+255,"6tj28xrglusw5471rxuyxq","Mainstream-Complex","weighted preferences","US","US","Distinguished",NA
+256,"1ycj0yfujrkshyhnkqx3nq","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+257,"pmnd6piik6lazsnph9mr8f","Jazz","weighted preferences","USA","USA","Advanced",10
+258,"eyytqibgnokanceyavnfru","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+259,"4rh6cud2s29pp474m2qweq","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",11
+260,"nlfq7a9hc0kwvfzdlz087i","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+261,"iql1abrg5lr02m4qbwkgt8d","Mainstream-Complex","weighted preferences","USA","USA","Superior",NA
+262,"3re2nxf544h0aj8xl3kmdyk","Classical","weighted preferences","USA","German","Distinguished",9
+263,"vi7zrgafdmq7788hj0zdtc","Mainstream-Complex","weighted preferences","USA","usa","Distinguished",NA
+264,"uyxasvw5akga78ad6u5dvj","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+265,"p0u2gvl1ivs3mb8d5xh7","Mainstream-Complex","weighted preferences","USA","USA","Superior",8
+266,"28s78edygjbk5ojgq9f2yl","Mainstream-Complex","weighted preferences","usa","usa","Distinguished",6
+267,"svb081eimhqaqf4w13avs","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+268,"oh9mmblgegr991txarj3ki","Mainstream-Complex","weighted preferences","United States","United States","Superior",NA
+269,"oc5x4rr6rbcpagqjce5vns","Mainstream-Complex","tie: prevalence within OMSI and overall","usa","usa","Distinguished",NA
+270,"pd6kku6a35ferp4gjrbol","Jazz","weighted preferences","united kingdom","united states","Distinguished",8
+271,"o8vxqtjchzgh3veqi6jzjt","Mainstream-Complex","weighted preferences","USA","United States","Distinguished",45
+272,"nizw3appwb0fqp14zna77b","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",NA
+273,"e6mi5jevqwodle05es7q6d","Jazz","weighted preferences","united state of america","united state of america","Distinguished",30
+274,"62c3ufy2scbwsnaygml6jj","Mainstream-Complex","weighted preferences","UK, England","UK, Engand","Superior",NA
+275,"kzgd2zamdsljy56frmlto","Jazz","weighted preferences","USA","USA","Distinguished",NA
+276,"ozeu7j5phannkyqvl1tkf","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+277,"3dtn8xdyq4fu515auor1","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+278,"dlqjen1izrrw4zqyvt4f4","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",7
+279,"1krz0h3lyvji0nazrjmihixh","Jazz","weighted preferences","UK","USA","Distinguished",NA
+280,"2b9cin19bns7t5bejmlij","Mainstream","weighted preferences","United States","United States","Novice",NA
+281,"7k0f7w6fwgms1icf6egjmo","Classical","weighted preferences","USA","USA","Superior",9
+282,"4j3hmszilcudwvbymeiiel","Jazz","tie: prevalence within OMSI and overall","USA","USA","Distinguished",NA
+283,"cim28yllibtohguf072kk","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+284,"wwiupizzclaxsyoe5dxko","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",27
+285,"qeor82kzaodp5hubfs2uk","Mainstream-Complex","weighted preferences","USA, Brazil","Brazil, Canada","Superior",12
+286,"03j9h78hbtorb7qclabhdzi","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",NA
+287,"64fjy8qvj2vcyjkkr5injl","Mainstream","weighted preferences","Costa Rica","Costa Rica","Advanced",8
+288,"49zwuxycs8a7jjhtm7t849","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+289,"9jrjsef95ho3l6uvcxgxda","Mainstream","weighted preferences","Canada","Canada, USA","Superior",10
+290,"xyzczu0fzpt6h1lwf3laa","Mainstream-Complex","weighted preferences","USA, (West) Germany, Netherlands","USA, Germany, Belgium","Superior",NA
+291,"l0u5zwhbogfwed45ksupmi","Classical","weighted preferences","United Kingdom","United Kingdom","Distinguished",5
+292,"qpy8enxnbelz4fpjfnzurf","Mainstream","weighted preferences","USA","USA","Distinguished",13
+293,"jpugjnup539h18arkpvtoj","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+294,"2easgf5swo29mbcmue3mw4","Classical","weighted preferences","India","India","Distinguished",6
+295,"vy5bztsj6xedi4q4kmuu2","Jazz","weighted preferences","United States","United States","Distinguished",5
+296,"ug4jxvrzd2kulkwyy0kua","Mainstream","weighted preferences","Canada","Canada","Superior",6
+297,"vc86pnd39cq8omzabf07e9","Classical","weighted preferences","USA","USA","Distinguished",6
+298,"hhh70wjaspr1bp3osu6j2j","Classical","weighted preferences","USA","USA","Distinguished",10
+299,"dcfxe5wvxvvjtib6ufc3gk","Classical","weighted preferences","New Zealand","New Zealand","Superior",9
+300,"ko9qt9sjsp8riimhlxvtw","Classical","weighted preferences","Germany","Germany","Superior",4
+301,"wnlfyio6uv745k1wr3anb","Jazz","tie: prevalence within OMSI and overall","Venezuela","Venezuela","Novice",12
+302,"wmdnlgvdnlwoy1pkf8dk","Classical","weighted preferences","south korea","mexico","Distinguished",19
+303,"8p6ee4pj2xlrqcguw7a65","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",16
+304,"wi7ezqd60gbw4350i07l1","Classical","weighted preferences","China","China","Distinguished",4
+305,"excav6gagdtj277zs9csyh","Classical","weighted preferences","China","China","Distinguished",4
+306,"w0oz9f8kq9lemigwm90qob","Classical","weighted preferences","Ukraine","Ukraine","Superior",6
+307,"wmob5tqagu9wr85wuba35","Classical","weighted preferences","UK","UK","Distinguished",5
+308,"4vosfobmiwo5bw39e4vf","Classical","weighted preferences","UK","UK","Superior",7
+309,"f6953cyvl4cmhl0dnpysi8","Jazz","weighted preferences","Italy","Italy","Superior",6
+310,"reiafemfwx810nj904nw6d","Classical","weighted preferences","FR","FR","Distinguished",8
+311,"s2qtinosspeytrijjaw26","Classical","weighted preferences","USA","USA","Distinguished",11
+312,"aa6eh6j7q38v8mhcaaztmf","Classical","weighted preferences","Indonesis","Indonesia, Taiwan","Advanced",6
+313,"uuz2uhyxfzcgaoy8ykb8jw","Classical","weighted preferences","Australia","Australia","Superior",4
+314,"jlvn1koefbnldlw3l6xepp","Classical","weighted preferences","Singapore","Singapore","Distinguished",5
+315,"az3rn8co1qubao8scf8euj","Mainstream-Complex","weighted preferences","Canada","Canada","Advanced",NA
+316,"cw7fqfvno6sj6nbuvy7h8","Mainstream-Complex","weighted preferences","USA, China","USA, China","Distinguished",5
+317,"ju4p88wuqbg7zw445839mu","Classical","weighted preferences","Germany","Germany","Superior",4
+318,"lclx5ngz6bup4vtbgiimk","Classical","weighted preferences","Brazil","Brazil","Distinguished",16
+319,"gg02y04xnqkjid3ycbbm","Jazz","tie: prevalence within OMSI and overall","Argentina","Argentina","Intermediate",13
+320,"seajxn6q26y4np0eoqjqe","Jazz","weighted preferences","USA","USA","Distinguished",10
+321,"tqb9v0ffqos4eu44filnid","Mainstream","weighted preferences","Iran","Australia","Distinguished",5
+322,"28kmj9cjpfh7rhhmb73m8u","Jazz","weighted preferences","Sweden","Sweden","Superior",9
+323,"1sbbrv680r1ss4o7wv15x","Classical","weighted preferences","USA","USA","Distinguished",11
+324,"q3ca1ljqnyk3mljnnxpe8","Mainstream-Complex","weighted preferences","croatia","croatia","Superior",6
+325,"svjb0ols2tpcjzi3xh8ek","Classical","weighted preferences","Singapore","Singapore","Distinguished",3
+326,"1cc3464jx8iwh34evrpslc","Mainstream","weighted preferences","Sweden","Sweden","Superior",7
+327,"ewh9x9eeabc4zlabqkhbwu","Jazz","weighted preferences","Spain","Spain","Distinguished",8
+328,"1uxhroixmt4slktejzpwn","Jazz","weighted preferences","Russia","Thailand, Russia","Advanced",12
+329,"j04ifwtqe5er5ak7amxfl","Mainstream-Complex","weighted preferences","Belarus","Russia, France","Distinguished",4
+330,"8iy8lltbftsphavwpqdcd9","Classical","weighted preferences","India","India","Advanced",27
+331,"0gp4c9smv989kv2jgbixwvi","Jazz","weighted preferences","Italy","Australia","Distinguished",7
+332,"pg58f1wubq4aty2en1a1h","Jazz","weighted preferences","Brazil","Brazil","Distinguished",12
+333,"rkigdbjkdeh2su0p2m5m","Classical","weighted preferences","United Kingdom, Malaysia","United Kingdom","Distinguished",8
+334,"2mmks5r1pyo0mawmnk3eak","Jazz","weighted preferences","Germany","Germany","Superior",5
+335,"0d2mq0ezzo9nkfc4g9xdzsl","Classical","weighted preferences","Czech Republic","USA","Distinguished",6
+336,"jprwgqo03ft6y13ifr9eo8","Mainstream","weighted preferences","Chile","Chile","Superior",8
+337,"sgk7i2js4oe64mywrpgha8","Mainstream","weighted preferences","USA","USA","Distinguished",7
+338,"nz0aqtkpeixqoryyz1spm","Classical","weighted preferences","Moldova","Moldova","Superior",6
+339,"obpy58v5ric0wau3tafkp9","Classical","weighted preferences","India","India","Advanced",14
+340,"43q9esggotchhlxj3j9mld","Mainstream-Complex","weighted preferences","Usa","USA","Distinguished",32
+341,"83t76qn2vlkhpleet2pzsr","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",11
+342,"3gvtdrk3ayf3c0hyg1fwrf","Classical","weighted preferences","Czech republic","Czech republic","Superior",7
+343,"fv36e9eo0ub4bzrt7nt0f3","Mainstream","weighted preferences","US","US","Distinguished",10
+344,"zdkhx4rwvhc84hhnk0nmas","Classical","weighted preferences","Germany","Germany","Superior",5
+345,"yq96wqp1dmnyg72wbaim","Classical","weighted preferences","UK","UK","Distinguished",7
+346,"7v2y5jlvlsin31uplj4ae","Classical","weighted preferences","UK","UK","Distinguished",5
+347,"cstiq6sqyvmcphkdrvtryt","Classical","weighted preferences","USA","USA","Distinguished",8
+348,"3rczkrjyhyohim131b0i6f","Mainstream","weighted preferences","USA","USA","Distinguished",6
+349,"jcwaycr1dgp6ub5nyvgzeg","Mainstream","weighted preferences","Russia","Russia","Advanced",7
+350,"p3pqib62u28kgjx5yyl3me","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",4
+351,"myjyogbgvfak4cnzi6dfb","Jazz","tie: prevalence within OMSI and overall","France, USA","France, USA, UK","Distinguished",6
+352,"ep8a2tkqo6iu1ffpnahd3t","Jazz","weighted preferences","United States","United States","Distinguished",9
+353,"dgd5vl017oo2zrbxa5gv3c","Classical","weighted preferences","United States","United States","Advanced",7
+354,"rswzlxsm3fm34vj809fwq","Classical","weighted preferences","UK, Syria, Oman, Netherlands","UK, Nigeria, Netherlands","Distinguished",11
+355,"qsdz3xp32hlkhglo3jxspm","Classical","weighted preferences","UK","UK","Distinguished",6
+356,"6ac4kvtaz7sihix850dt6","Jazz","weighted preferences","India","India","Superior",26
+357,"s9xzi7f9s2dd4bg5rec99","Classical","weighted preferences","USA","USA","Distinguished",6
+358,"7ef4sjps1hohyl325nmvcq","Jazz","weighted preferences","Greece","Greece","Distinguished",5
+359,"uta56ls9sfpvyansggtaf","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",11
+360,"gc8ffbj7hpidfd7nyqygwl","Jazz","weighted preferences","United States","United States","Distinguished",5
+361,"eag8xym6dq5dmtutiru617","Jazz","weighted preferences","UK","UK","Superior",7
+362,"nqafjaqvn352uwjn52vyk","Classical","weighted preferences","UK","UK","Distinguished",4
+363,"xio30c13uvl2nrs2gxhn","Mainstream","weighted preferences","Canada","Canada","Superior",14
+364,"01g6fv3vvww8kk2ps3ule5","Jazz","weighted preferences","South Korea","South Korea, USA","Distinguished",5
+365,"vsodckronydnn51rrqu6gq","Jazz","weighted preferences","Singapore","Singapore","Superior",12
+366,"pwefoukt15dr4xjnral3a","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",NA
+367,"mllnarfb6rojw3adxds2","Mainstream-Complex","weighted preferences","China","China","Intermediate",4
+368,"ap01p8ho44n5k8kl8e09d6","Mainstream-Complex","weighted preferences","Nigeria","Nigeria","Distinguished",16
+369,"wyjcksrg3uavpd0kupg70r","Jazz","weighted preferences","US","US","Distinguished",13
+370,"bjihnm1cxpjboz2asmqog","Classical","weighted preferences","New Zealand","New Zealand","Distinguished",8
+371,"99kuwyvzhykoqpu5fsa40i","Mainstream","weighted preferences","United Kingdom","United Kingdom","Distinguished",8
+372,"ez6woozldslhi48pdoign","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",10
+373,"38es7dt3n7lttphe2wrnx","Mainstream-Complex","weighted preferences","Argentina","Argentina","Advanced",NA
+374,"kay8lxbmewjdde7364iycq","Jazz","weighted preferences","Czechia","Czechia","Advanced",8
+375,"twaekg3uxvony1aot20s3","Mainstream-Complex","weighted preferences","USA","USA","Superior",14
+376,"yema4ewgvsd9hmqkhtiogv","Mainstream","weighted preferences","United States","UK and USA","Distinguished",10
+377,"1g9gvunur55nh2if19zio","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",5
+378,"8we7myx5bdlmqyeldria7","Mainstream","weighted preferences","South Africa","South Africa","Superior",8
+379,"fdc8h6t0plv8nd140mxfnt","Mainstream","weighted preferences","South Africa","South Africa","Superior",8
+380,"rp0hljn3z9hn6z3oy2iqt","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",12
+381,"h19mzaynpsuj1xxmpu2dpp","Mainstream","weighted preferences","UK","UK","Distinguished",7
+382,"5w2iwc9aekiwgx28m7dbo","Mainstream","weighted preferences","AR","AR","Intermediate",8
+383,"xrb2bhkd0tf5e94m91e927","Jazz","weighted preferences","Brazil","Brazil and USA","Superior",5
+384,"3mbnjyi054cdrv8nvz8dz","Jazz","weighted preferences","BR","BR","Superior",11
+385,"dnyl0m5o65iy15ddomvwt","Mainstream-Complex","weighted preferences","Germany","Germany","Distinguished",4
+386,"8avu2u0umftgsvsxr2ylgn","Mainstream-Complex","tie: prevalence within OMSI and overall","Lithuania","Lithuania","Superior",NA
+387,"6a5ad5o29037dr6z057uai","Classical","weighted preferences","United States","United States","Distinguished",5
+388,"avd16ivwv19bb8j41dbwx8","Jazz","weighted preferences","China","USA","Distinguished",6
+389,"w1apn0tnk5dihm9e0m7uz","Classical","tie: prevalence within OMSI and overall","Singapore","Singapore","Distinguished",5
+390,"v2kqk7h7v8j2xaf9w1sez8","Mainstream-Complex","weighted preferences","Argentina","Argentina","Novice",12
+391,"l6hz5s9rsplq2kcmv8bggq","Mainstream","weighted preferences","UK","South Africa & UK","Distinguished",6
+392,"w6wn1l7hpj8pdpkdpmq8kl","Mainstream-Complex","weighted preferences","USa","USA","Superior",13
+393,"8kn0jpmu4t7cxpmfd9niw","Mainstream-Complex","tie: prevalence within OMSI and overall","France","France","Intermediate",8
+394,"mdarxcpzkxgi99fx1f8zc","Mainstream-Complex","tie: prevalence within OMSI and overall","Kazakhstan","Kazakhstan","Advanced",5
+395,"1lmbts0tv24rd3xn8cghza","Mainstream-Complex","weighted preferences","Romania","Germany","Superior",7
+396,"lpqehw2m4siwje3fhd7jq","Mainstream-Complex","weighted preferences","Puerto Rico","USA","Distinguished",NA
+397,"tgrykux10wd8xhkuvqsnlf","Mainstream-Complex","weighted preferences","United State","United states","Distinguished",NA
+398,"jhooxec1ldtlrui22a09n","Jazz","weighted preferences","USA","USA","Superior",6
+399,"at7sblpglst2o9i42k9lnw","Classical","weighted preferences","Sweden","Sweden","Superior",11
+400,"38a50jtwbvg5mxpc7j76kb","Mainstream","weighted preferences","Ireland","Ireland","Distinguished",6
+401,"kdgcn2n82vnc9y9x89nhk","Mainstream-Complex","weighted preferences","UK","UK","Distinguished",7
+402,"7onh593q69hnm306unuaoj","Jazz","weighted preferences","USA, Japan","USA, Japan","Distinguished",9
+403,"aa9wm43d0h9z88oiyn0m3s","Mainstream-Complex","weighted preferences","Usa","Usa","Superior",18
+404,"wqw1uenihndy4pqidcm6g","Mainstream","fallback: no classified preference","Usa","Usa","Distinguished",5
+405,"lti3ztjt7jctcegi7ey9k9","Mainstream-Complex","tie: prevalence within OMSI and overall","Hungary","Hungary","Superior",NA
+406,"3p9eipeo4ceqgdmnbey3","Jazz","weighted preferences","New Zealand, Central America, United States","United States, New Zealand","Distinguished",4
+407,"w4e68sybbke6xpq9xsjyjb","Jazz","weighted preferences","USA","USA","Distinguished",10
+408,"5x11mg5n2mc3pfjpj7k9a2","Mainstream-Complex","weighted preferences","Russia","Russia","Advanced",NA
+409,"9zqtbm2gcad7i5sqhd31r","Mainstream-Complex","weighted preferences","South African","South Africa","Superior",8
+410,"r6svp2h723m2xnwis5grcl","Mainstream-Complex","weighted preferences","canada","canada","Advanced",7
+411,"96ex2z5uasho3j4vmmzzq9","Jazz","weighted preferences","USA","USA","Advanced",7
+412,"sw66kr6nzixdniw2y1u1","Mainstream-Complex","weighted preferences","Croatia, Slovenia","Croatia","Distinguished",14
+413,"w6txs7ccoqt5vrxk9l774","Mainstream-Complex","weighted preferences","usa","usa","Distinguished",NA
+414,"scxob0fl3hgz2o4t3z42ye","Classical","weighted preferences","USA","USA","Distinguished",14
+415,"aiiwenzzbhc4yaa4ibb8w4","Mainstream-Complex","weighted preferences","United Stated","United states","Advanced",11
+416,"vcpsay7gvxdxdvc2hcqkvr","Classical","weighted preferences","France","France","Novice",27
+417,"7utjr8alkm6vcui3depckh","Mainstream-Complex","weighted preferences","UK","UK","Distinguished",3
+418,"v19hnqxp116zqad74db1a","Mainstream-Complex","weighted preferences","USA","USA","Superior",4
+419,"or498lw39tbb80ikwrdkg","Mainstream","weighted preferences","usa","usa","Superior",7
+420,"kllme6og9pat7m6ipro7o","Jazz","weighted preferences","USA","USA","Distinguished",6
+421,"9l1civw9as63p9vahbetwb","Classical","weighted preferences","United States","United States","Distinguished",3
+422,"cd7n2v59t8zskkf4e2pyr","Jazz","weighted preferences","United States","United States","Novice-Low",9
+423,"iqkeaw2ozl7mje4kpz1dad","Jazz","weighted preferences","Dubai","Dubai","Distinguished",2
+424,"2ziaws2wnwsmm5su6orptd","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",10
+425,"fz3ehch15l2mlyghnxq8","Mainstream","weighted preferences","Norway","Norway","Superior",7
+426,"sxzbq2j52f00s87g6wv67tn","Mainstream","weighted preferences","USA","USA","Distinguished",4
+427,"oyhpbt5ymjkvy9742sc","Jazz","weighted preferences","USA","US","Distinguished",6
+428,"3qbbi067h62scrblv0mru","Mainstream","weighted preferences","United Kingdom","United Kingdom","Superior",7
+429,"qy33zvxumq5y8wvo42tad","Jazz","weighted preferences","United States","United States","Distinguished",13
+430,"xztzfzhoinhytl4k661g7","Mainstream","weighted preferences","DE","DE","Distinguished",7
+431,"13lu3906gkcal1f4hoemwgp","Jazz","weighted preferences","USA","Canada","Distinguished",10
+432,"jubygfh6k2intq520fg2tk","Mainstream","weighted preferences","Canada","Canada","Distinguished",10
+433,"9szu0pilc8vcp6sbesacuo","Jazz","tie: prevalence within OMSI and overall","Norway","Norway, USA, Finland, Germany","Distinguished",7
+434,"cbeuciu8i5ii1dx9c0au2d","Jazz","weighted preferences","Australia","Australia","Distinguished",5
+435,"u6gcjuziisheh02owri8is","Classical","tie: prevalence within OMSI and overall","United Kingdom","United Kingdom","Distinguished",9
+436,"wxb1gcuv8xsgpuks95cvxn","Classical","weighted preferences","Spain","Spain, Autria, Italy","Distinguished",7
+437,"2qhgy19g9em86fhf7qh31t","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",5
+438,"tvy07v034cmx79zyl1gjq","Classical","weighted preferences","taiwan","australia","Distinguished",8
+439,"8ytyq0fr7cybc39x2bfec","Mainstream-Complex","weighted preferences","United States","United States","Distinguished",NA
+440,"6ql24ydgn5qe408s2mzk","Mainstream-Complex","weighted preferences","Japan","Japan","Intermediate",13
+441,"fe2ithyf178rwyb32qosjp","Mainstream-Complex","weighted preferences","Germany","Germany","Superior",5
+442,"i74sbf9hlqigczbsn147he","Mainstream","weighted preferences","USA","USA","Distinguished",8
+443,"6oysubobojxj0xlzrngzg","Mainstream","weighted preferences","france","france","Advanced",7
+444,"x3cblwizodsud2rbzfty","Classical","weighted preferences","USA","USA","Superior",3
+445,"mguw2azsyez8jowao6t","Jazz","tie: prevalence within OMSI and overall","USA","USA","Distinguished",5

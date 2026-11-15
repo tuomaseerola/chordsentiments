@@ -1,0 +1,30 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,35
+Gender,male
+Country of Residence Age 0-7,"USA"
+Country of Residence Age 7+,"USA"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,14
+Years of Musical Training,1
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Advanced-Beginner,3,""
+vibraphone,Novice,1,""
+drums,Novice,1,""
+vocals,Novice,2,""
+other-monophonic,Competent,7,"Bass"
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+film,Advanced-Beginner,3
+producer,Competent,8
+Music Styles Played,"Funk, hip hop, house, blues, jazz "
+
+MUSIC PREFERENCES
+Music Genres,"Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock"

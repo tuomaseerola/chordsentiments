@@ -1,0 +1,26 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,21
+Gender,male
+Country of Residence Age 0-7,"England "
+Country of Residence Age 7+,"England "
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Amateur musician, 3
+Age Started Music,4
+Years of Musical Training,12
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+strings,Competent,7,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+songwriter,Competent,7
+Music Styles Played,"Classical, folk rock"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Modern & Contemporary Classical (1900s-Present), Alternative & Indie Rock"

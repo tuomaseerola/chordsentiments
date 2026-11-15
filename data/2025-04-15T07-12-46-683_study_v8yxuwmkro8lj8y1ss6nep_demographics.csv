@@ -1,0 +1,28 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,29
+Gender,male
+Country of Residence Age 0-7,"Germany"
+Country of Residence Age 7+,"Germany"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,8
+Years of Musical Training,21
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Proficient,10,""
+piano,Advanced-Beginner,4,""
+drums,Competent,6,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,10
+songwriter,Proficient,10
+Music Styles Played,"classical guitar, punk, metal"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Jazz-Influenced Pop, Funk & Progressive R&B, Progressive Rock & Progressive Metal, Other: Punk rock"

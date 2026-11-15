@@ -1,0 +1,27 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,19
+Gender,male
+Country of Residence Age 0-7,"Czechia"
+Country of Residence Age 7+,"Czechia"
+English Proficiency (1-6),Advanced, 4
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,8
+Years of Musical Training,4
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Advanced-Beginner,4,""
+piano,Advanced-Beginner,5,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,3
+producer,Advanced-Beginner,5
+Music Styles Played,"Jazz "
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Alternative & Indie Rock"

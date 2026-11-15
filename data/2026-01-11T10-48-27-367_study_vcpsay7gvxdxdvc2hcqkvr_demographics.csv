@@ -1,0 +1,25 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,31
+Gender,male
+Country of Residence Age 0-7,"France"
+Country of Residence Age 7+,"France"
+English Proficiency (1-6),Novice, 2
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Amateur musician, 3
+Age Started Music,27
+Years of Musical Training,4
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Advanced-Beginner,3,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Novice,2
+Music Styles Played,"classical, jazz"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Modern & Contemporary Classical (1900s-Present), Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Jazz-Influenced Pop, Funk & Progressive R&B, Art Pop, Chamber Pop & Experimentalism, Progressive Rock & Progressive Metal"

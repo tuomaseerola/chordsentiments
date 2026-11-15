@@ -1,0 +1,27 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,34
+Gender,male
+Country of Residence Age 0-7,"Colombia"
+Country of Residence Age 7+,"Colombia "
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Amateur musician, 3
+Age Started Music,11
+Years of Musical Training,6
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,6,""
+piano,Advanced-Beginner,3,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,4
+film,Advanced-Beginner,4
+Music Styles Played,"Blues, rock, experimental, bossa nova "
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Alternative & Indie Rock, Progressive Rock & Progressive Metal"

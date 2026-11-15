@@ -1,0 +1,30 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,20
+Gender,male
+Country of Residence Age 0-7,"Poland, United Kingdom"
+Country of Residence Age 7+,"United Kingdom"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,8
+Years of Musical Training,8
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Proficient,9,""
+brass,Novice,2,""
+woodwinds,Advanced-Beginner,4,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,5
+songwriter,Competent,7
+composer,Advanced-Beginner,4
+producer,Advanced-Beginner,5
+Music Styles Played,"Classical, Jazz, Soul, Blues, Electronic"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Alternative & Indie Rock"

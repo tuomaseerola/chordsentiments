@@ -1,0 +1,31 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,21
+Gender,prefer-not-to-answer
+Country of Residence Age 0-7,"USA"
+Country of Residence Age 7+,"USA"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,14
+Years of Musical Training,7
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Novice,2,""
+drums,Novice,2,""
+vocals,Advanced-Beginner,5,""
+strings,Proficient,9,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,4
+songwriter,Proficient,9
+film,Competent,6
+producer,Competent,7
+Music Styles Played,"Electronic"
+
+MUSIC PREFERENCES
+Music Genres,"Modern & Contemporary Classical (1900s-Present), Alternative & Indie Rock, Other: Electronic"

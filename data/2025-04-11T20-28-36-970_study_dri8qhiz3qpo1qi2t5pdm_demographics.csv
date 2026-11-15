@@ -1,0 +1,29 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,30
+Gender,male
+Country of Residence Age 0-7,"Puerto Rico"
+Country of Residence Age 7+,"Puerto Rico"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,8
+Years of Musical Training,2
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Novice,2,""
+piano,Proficient,10,""
+vocals,Competent,7,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,5
+songwriter,Advanced-Beginner,5
+producer,Advanced-Beginner,5
+Music Styles Played,"indie pop rock"
+
+MUSIC PREFERENCES
+Music Genres,"Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock"

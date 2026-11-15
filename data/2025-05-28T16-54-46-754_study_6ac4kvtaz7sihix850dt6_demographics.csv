@@ -1,0 +1,25 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,28
+Gender,female
+Country of Residence Age 0-7,"India"
+Country of Residence Age 7+,"India "
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Amateur musician, 3
+Age Started Music,26
+Years of Musical Training,1
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Advanced-Beginner,4,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+None,N/A,
+Music Styles Played,"Electronic keyboard "
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern)"

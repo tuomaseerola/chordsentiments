@@ -1,0 +1,30 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,20
+Gender,male
+Country of Residence Age 0-7,"Croatia, Slovenia"
+Country of Residence Age 7+,"Croatia"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,14
+Years of Musical Training,6
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Advanced-Beginner,4,""
+piano,Proficient,10,""
+vocals,Proficient,10,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,6
+songwriter,Proficient,9
+composer,Advanced-Beginner,5
+producer,Competent,6
+Music Styles Played,"Indie Rock, Math Rock, Jazz"
+
+MUSIC PREFERENCES
+Music Genres,"Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Jazz-Influenced Pop, Funk & Progressive R&B, Alternative & Indie Rock"

@@ -1,0 +1,34 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,18
+Gender,male
+Country of Residence Age 0-7,"Sweden"
+Country of Residence Age 7+,"Sweden"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,9
+Years of Musical Training,2
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Advanced-Beginner,4,""
+piano,Competent,8,""
+vibraphone,Advanced-Beginner,4,""
+drums,Competent,6,""
+vocals,Novice,2,""
+woodwinds,Novice,1,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,9
+songwriter,Competent,6
+composer,Advanced-Beginner,5
+film,Advanced-Beginner,4
+producer,Proficient,10
+Music Styles Played,"Jazz"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Jazz-Influenced Pop, Funk & Progressive R&B"

@@ -1,0 +1,31 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,36
+Gender,male
+Country of Residence Age 0-7,"United Kingdom"
+Country of Residence Age 7+,"United Kingdom"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,7
+Years of Musical Training,12
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Competent,7,""
+vocals,Competent,7,""
+strings,Competent,7,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,10
+songwriter,Master,12
+composer,Competent,7
+film,Proficient,10
+producer,Proficient,10
+Music Styles Played,"classical, electronic, pop, folk, world music, jazz, choral"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Modern & Contemporary Classical (1900s-Present), Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock"

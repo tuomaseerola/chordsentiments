@@ -1,0 +1,33 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,41
+Gender,male
+Country of Residence Age 0-7,"United Stated"
+Country of Residence Age 7+,"United states"
+English Proficiency (1-6),Advanced, 4
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,11
+Years of Musical Training,30+
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+piano,Advanced-Beginner,4,""
+drums,Advanced-Beginner,4,""
+vocals,Master,12,""
+brass,Master,12,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,8
+songwriter,Competent,8
+composer,Advanced-Beginner,5
+film,Advanced-Beginner,5
+producer,Advanced-Beginner,4
+Music Styles Played,"Jazz, funk, soul, reggae, afrobeat, hip hop"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Modern & Contemporary Classical (1900s-Present), Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock, Progressive Rock & Progressive Metal"

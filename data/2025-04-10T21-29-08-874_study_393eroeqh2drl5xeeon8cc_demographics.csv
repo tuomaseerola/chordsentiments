@@ -1,0 +1,31 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,22
+Gender,male
+Country of Residence Age 0-7,"South Africa"
+Country of Residence Age 7+,"South Africa"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,8
+Years of Musical Training,15
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Proficient,9,""
+vocals,Proficient,10,""
+brass,Advanced-Beginner,4,""
+other-polyphonic,Competent,7,"Bass Guitar"
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,9
+songwriter,Advanced-Beginner,3
+composer,Advanced-Beginner,5
+producer,Novice,2
+Music Styles Played,"Jazz, Modern Jazz, South African Jazz, Neo Soul, Pop"
+
+MUSIC PREFERENCES
+Music Genres,"Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Alternative & Indie Rock, Other: Specially game soundtracks as well as movie soundtracks."

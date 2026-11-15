@@ -1,0 +1,31 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,29
+Gender,male
+Country of Residence Age 0-7,"germany"
+Country of Residence Age 7+,"germany"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,4
+Years of Musical Training,20
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Master,12,""
+piano,Proficient,10,""
+drums,Advanced-Beginner,5,""
+vocals,Proficient,9,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,7
+songwriter,Proficient,9
+film,Proficient,9
+producer,Master,12
+Music Styles Played,"Hip Hop, RnB"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz (Classic, Fusion & Modern), Neo-Soul, R&B & Gospel, Art Pop, Chamber Pop & Experimentalism"

@@ -1,0 +1,32 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,23
+Gender,male
+Country of Residence Age 0-7,"USA"
+Country of Residence Age 7+,"USA"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,8
+Years of Musical Training,15
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Novice,2,""
+piano,Master,11,""
+drums,Proficient,10,""
+vocals,Competent,7,""
+strings,Proficient,9,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Master,11
+songwriter,Proficient,9
+composer,Competent,6
+producer,Proficient,10
+Music Styles Played,"Modern Jazz, EDM"
+
+MUSIC PREFERENCES
+Music Genres,"Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Progressive Rock & Progressive Metal"

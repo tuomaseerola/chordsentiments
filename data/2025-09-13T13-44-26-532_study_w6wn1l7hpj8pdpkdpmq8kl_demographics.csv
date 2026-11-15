@@ -1,0 +1,26 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,52
+Gender,male
+Country of Residence Age 0-7,"USa"
+Country of Residence Age 7+,"USA"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,13
+Years of Musical Training,2
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Proficient,9,""
+drums,Competent,7,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+songwriter,Competent,8
+Music Styles Played,"Rock, metal, blues, alternative"
+
+MUSIC PREFERENCES
+Music Genres,"Alternative & Indie Rock, Progressive Rock & Progressive Metal"

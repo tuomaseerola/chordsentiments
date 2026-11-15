@@ -1,0 +1,26 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,14
+Gender,other
+Country of Residence Age 0-7,"USA"
+Country of Residence Age 7+,"Canada"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,4
+Years of Musical Training,10
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Master,12,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,10
+composer,Proficient,9
+Music Styles Played,"Classical"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s)"

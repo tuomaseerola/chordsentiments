@@ -1,0 +1,25 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,37
+Gender,male
+Country of Residence Age 0-7,"Hungary"
+Country of Residence Age 7+,"Hungary, China"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,14
+Years of Musical Training,0
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+drums,Competent,8,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,7
+Music Styles Played,"Rock and roll, and all its weird cousins"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Orchestral Film & Broadway Scores, Jazz-Influenced Pop, Funk & Progressive R&B, Alternative & Indie Rock, Progressive Rock & Progressive Metal, Other: I listen to a lot of early 90s dungeon synth and atmospheric black metal"

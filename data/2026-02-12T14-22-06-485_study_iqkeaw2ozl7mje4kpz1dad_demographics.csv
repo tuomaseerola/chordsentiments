@@ -1,0 +1,27 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,20
+Gender,male
+Country of Residence Age 0-7,"Dubai"
+Country of Residence Age 7+,"Dubai"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,2
+Years of Musical Training,5
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+piano,Proficient,9,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Proficient,10
+composer,Advanced-Beginner,3
+producer,Competent,6
+Music Styles Played,"Jazz/pop, KANYE, gospel (amateur), Indian bollywood, Indie"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Jazz (Classic, Fusion & Modern), Jazz-Influenced Pop, Funk & Progressive R&B, Alternative & Indie Rock"

@@ -1,0 +1,29 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,32
+Gender,male
+Country of Residence Age 0-7,"USA, Brazil"
+Country of Residence Age 7+,"Brazil, Canada"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,12
+Years of Musical Training,20
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Novice,2,""
+piano,Competent,7,""
+drums,Proficient,10,""
+vocals,Novice,2,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,4
+songwriter,Advanced-Beginner,5
+Music Styles Played,"Traditional Classical, Modern Jazz, Progressive Rock & Metal, Indie Rock, Pop"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Jazz-Influenced Pop, Funk & Progressive R&B, Neo-Soul, R&B & Gospel, Alternative & Indie Rock, Progressive Rock & Progressive Metal, Other: Eldar Djangirov, Jesús Molina, Charles Valentin Alkan, Clare Fischer"

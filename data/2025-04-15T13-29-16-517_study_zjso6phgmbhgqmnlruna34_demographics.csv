@@ -1,0 +1,29 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,28
+Gender,male
+Country of Residence Age 0-7,"Germany"
+Country of Residence Age 7+,"Germany"
+English Proficiency (1-6),Intermediate, 3
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Amateur musician, 3
+Age Started Music,23
+Years of Musical Training,4
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Novice,2,""
+piano,Novice,2,""
+vocals,Novice,2,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Advanced-Beginner,4
+songwriter,Advanced-Beginner,4
+producer,Advanced-Beginner,4
+Music Styles Played,"Psychedelic, Folk"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Orchestral Film & Broadway Scores, Jazz (Classic, Fusion & Modern), Jazz-Influenced Pop, Funk & Progressive R&B, Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock, Progressive Rock & Progressive Metal"

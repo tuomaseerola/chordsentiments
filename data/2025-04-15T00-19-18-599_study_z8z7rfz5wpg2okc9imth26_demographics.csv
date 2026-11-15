@@ -1,0 +1,28 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,32
+Gender,female
+Country of Residence Age 0-7,"United States"
+Country of Residence Age 7+,"United States"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Serious amateur musician, 4
+Age Started Music,12
+Years of Musical Training,6
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+brass,Advanced-Beginner,3,""
+woodwinds,Proficient,9,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+songwriter,Proficient,10
+film,Advanced-Beginner,4
+producer,Advanced-Beginner,4
+Music Styles Played,"R&B"
+
+MUSIC PREFERENCES
+Music Genres,"Orchestral Film & Broadway Scores, Neo-Soul, R&B & Gospel"

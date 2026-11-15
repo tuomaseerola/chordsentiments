@@ -1,0 +1,31 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,41
+Gender,female
+Country of Residence Age 0-7,"usa"
+Country of Residence Age 7+,"usa"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Semi-professional musician, 5
+Age Started Music,9
+Years of Musical Training,12
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+piano,Competent,7,""
+drums,Competent,7,""
+vocals,Competent,7,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,7
+songwriter,Competent,7
+film,Competent,7
+producer,Competent,7
+Music Styles Played,"Gospel"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Art Pop, Chamber Pop & Experimentalism, Alternative & Indie Rock"

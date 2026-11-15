@@ -1,0 +1,28 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,36
+Gender,male
+Country of Residence Age 0-7,"France"
+Country of Residence Age 7+,"France"
+English Proficiency (1-6),Superior, 5
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,7
+Years of Musical Training,18
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Novice,2,""
+piano,Novice,2,""
+woodwinds,Master,11,""
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,6
+producer,Advanced-Beginner,4
+Music Styles Played,"Klezmer, jazz, choro, balkan, french song, ska"
+
+MUSIC PREFERENCES
+Music Genres,"Traditional Classical (1600s-1900s), Jazz (Classic, Fusion & Modern), Bossa Nova & Latin Jazz, Alternative & Indie Rock, Other: eastern european music (klezmer & balkan music), alternative French song"

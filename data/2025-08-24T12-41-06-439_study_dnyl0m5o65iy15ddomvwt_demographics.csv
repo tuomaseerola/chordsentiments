@@ -1,0 +1,33 @@
+DEMOGRAPHICS DATA
+
+PERSONAL DEMOGRAPHICS
+Age,30
+Gender,male
+Country of Residence Age 0-7,"Germany"
+Country of Residence Age 7+,"Germany"
+English Proficiency (1-6),Distinguished, 6
+
+MUSICAL BACKGROUND,INVOLVEMENT LEVEL,RAW INVOLVEMENT (1-6)
+Music Involvement,Professional musician, 6
+Age Started Music,4
+Years of Musical Training,10
+
+MUSICAL INSTRUMENTS
+INSTRUMENT,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12),SPECIFICATIONS
+guitar,Competent,7,""
+piano,Competent,7,""
+drums,Competent,7,""
+vocals,Competent,7,""
+other-polyphonic,Competent,7,"bass"
+
+MUSIC SKILLS
+SKILL,PROFICIENCY LEVEL,RAW PROFICIENCY (1-12)
+improviser,Competent,7
+songwriter,Competent,7
+composer,Competent,7
+film,Competent,7
+producer,Competent,7
+Music Styles Played,"indie, fusion, high dopamine"
+
+MUSIC PREFERENCES
+Music Genres,"Alternative & Indie Rock, Other: daryl johns"
