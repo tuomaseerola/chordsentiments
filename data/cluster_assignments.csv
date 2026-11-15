@@ -1,5 +1,5 @@
 "id","code","cluster","preference_assignment","Country of Residence Age 0-7","Country of Residence Age 7+","English Proficiency (1-6)","Age Started Music"
-1,"e7eivf27v8uc7q9ev8gnr","Classical","tie: stronger preference in primary source","US","US","Distinguished",9
+1,"e7eivf27v8uc7q9ev8gnr","Mainstream","weighted preferences","US","US","Distinguished",9
 2,"l1fakhozfbriplct4cssge","Mainstream-Complex","weighted preferences","Croatia","Croatia","Advanced",10
 3,"w2hkkhsvopbals4zs562iq","Mainstream-Complex","weighted preferences","philippines","philippines, thailand","Superior",13
 4,"cuisguef0yp52kb0d1mwr","Mainstream-Complex","weighted preferences","USA","USA","Intermediate",10
@@ -51,7 +51,7 @@
 50,"bjkbfv4kse7bkkmd46rwv","Jazz","weighted preferences","France","France","Intermediate",11
 51,"sdbhu7v3sarsf9f4yw1u4c","Jazz","weighted preferences","Portugal","Portugal","Superior",5
 52,"17kpn7dfgq4u1ykqkwsgno","Mainstream-Complex","weighted preferences","US","US","Distinguished",13
-53,"a9gdp1qy9zdw6etpq1pj7j","Jazz","weighted preferences","UK","UK","Distinguished",15
+53,"a9gdp1qy9zdw6etpq1pj7j","Mainstream-Complex","weighted preferences","UK","UK","Distinguished",15
 54,"njiaxvq8f2gbj0zm275ci5","Jazz","weighted preferences","USA","USA","Distinguished",14
 55,"6qfpplut7jmtmyfcj0yl2q","Jazz","weighted preferences","USA","US","Distinguished",15
 56,"35gv3c54rkv2z0kin1vixy","Jazz","weighted preferences","USA","USA","Distinguished",6
@@ -387,7 +387,7 @@
 386,"8avu2u0umftgsvsxr2ylgn","Mainstream-Complex","tie: prevalence within OMSI and overall","Lithuania","Lithuania","Superior",NA
 387,"6a5ad5o29037dr6z057uai","Classical","weighted preferences","United States","United States","Distinguished",5
 388,"avd16ivwv19bb8j41dbwx8","Jazz","weighted preferences","China","USA","Distinguished",6
-389,"w1apn0tnk5dihm9e0m7uz","Classical","tie: prevalence within OMSI and overall","Singapore","Singapore","Distinguished",5
+389,"w1apn0tnk5dihm9e0m7uz","Jazz","tie: prevalence within OMSI and overall","Singapore","Singapore","Distinguished",5
 390,"v2kqk7h7v8j2xaf9w1sez8","Mainstream-Complex","weighted preferences","Argentina","Argentina","Novice",12
 391,"l6hz5s9rsplq2kcmv8bggq","Mainstream","weighted preferences","UK","South Africa & UK","Distinguished",6
 392,"w6wn1l7hpj8pdpkdpmq8kl","Mainstream-Complex","weighted preferences","USa","USA","Superior",13
@@ -421,8 +421,8 @@
 420,"kllme6og9pat7m6ipro7o","Jazz","weighted preferences","USA","USA","Distinguished",6
 421,"9l1civw9as63p9vahbetwb","Classical","weighted preferences","United States","United States","Distinguished",3
 422,"cd7n2v59t8zskkf4e2pyr","Jazz","weighted preferences","United States","United States","Novice-Low",9
-423,"iqkeaw2ozl7mje4kpz1dad","Jazz","weighted preferences","Dubai","Dubai","Distinguished",2
-424,"2ziaws2wnwsmm5su6orptd","Mainstream-Complex","tie: prevalence within OMSI and overall","USA","USA","Distinguished",10
+423,"iqkeaw2ozl7mje4kpz1dad","Mainstream","weighted preferences","Dubai","Dubai","Distinguished",2
+424,"2ziaws2wnwsmm5su6orptd","Jazz","weighted preferences","USA","USA","Distinguished",10
 425,"fz3ehch15l2mlyghnxq8","Mainstream","weighted preferences","Norway","Norway","Superior",7
 426,"sxzbq2j52f00s87g6wv67tn","Mainstream","weighted preferences","USA","USA","Distinguished",4
 427,"oyhpbt5ymjkvy9742sc","Jazz","weighted preferences","USA","US","Distinguished",6
@@ -433,7 +433,7 @@
 432,"jubygfh6k2intq520fg2tk","Mainstream","weighted preferences","Canada","Canada","Distinguished",10
 433,"9szu0pilc8vcp6sbesacuo","Jazz","tie: prevalence within OMSI and overall","Norway","Norway, USA, Finland, Germany","Distinguished",7
 434,"cbeuciu8i5ii1dx9c0au2d","Jazz","weighted preferences","Australia","Australia","Distinguished",5
-435,"u6gcjuziisheh02owri8is","Classical","tie: prevalence within OMSI and overall","United Kingdom","United Kingdom","Distinguished",9
+435,"u6gcjuziisheh02owri8is","Jazz","tie: prevalence within OMSI and overall","United Kingdom","United Kingdom","Distinguished",9
 436,"wxb1gcuv8xsgpuks95cvxn","Classical","weighted preferences","Spain","Spain, Autria, Italy","Distinguished",7
 437,"2qhgy19g9em86fhf7qh31t","Mainstream-Complex","weighted preferences","USA","USA","Distinguished",5
 438,"tvy07v034cmx79zyl1gjq","Classical","weighted preferences","taiwan","australia","Distinguished",8
@@ -443,7 +443,7 @@
 442,"i74sbf9hlqigczbsn147he","Mainstream","weighted preferences","USA","USA","Distinguished",8
 443,"6oysubobojxj0xlzrngzg","Mainstream","weighted preferences","france","france","Advanced",7
 444,"x3cblwizodsud2rbzfty","Classical","weighted preferences","USA","USA","Superior",3
-445,"mguw2azsyez8jowao6t","Jazz","tie: prevalence within OMSI and overall","USA","USA","Distinguished",5
+445,"mguw2azsyez8jowao6t","Classical","weighted preferences","USA","USA","Distinguished",5
 446,"qmi4glryigbvwhq86ceb8j","Mainstream-Complex","weighted preferences","Brazil","Brazil","Superior",12
 447,"0c4zbzxohhivpoabhlrze6l","Mainstream-Complex","weighted preferences","USA","USA","Advanced",11
 448,"1qdjmse4utufnudxkwuile","Mainstream-Complex","weighted preferences","Brazil","Brazil","Distinguished",18
